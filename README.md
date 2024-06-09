@@ -17,8 +17,6 @@ Tools & Platforms: Git, GitHub, VS Code
 LinkedIn https://www.linkedin.com/in/karen-sofia-bonilla-moreno-451050172/
 Email karenbonillamoreno@gmail.com
 
-📈 Top Languages
-
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,react,tailwind)](https://skillicons.dev)
 
 

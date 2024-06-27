@@ -6,7 +6,8 @@ I'm passionate and ambitious, always eager to learn new things and improve my co
 
 
 💻 Skills 
-  Languages: HTML, CSS, JavaScript 
+
+Languages: HTML, CSS, JavaScript 
 
 Frameworks & Libraries: React, Bootstrap, Tailwind, SCSS
 
@@ -14,8 +15,11 @@ Tools & Platforms: Git, GitHub, VS Code
 
 
 🔍 What I'm Up To
+
 🌱 I’m currently learning TypeScript and Next.js
+
 👯 I’m looking to collaborate on open-source projects
+
 
 📫 How to Reach Me
 

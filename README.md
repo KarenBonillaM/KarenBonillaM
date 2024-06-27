@@ -11,11 +11,13 @@ Frameworks & Libraries: React, Bootstrap, Tailwind, SCSS
 
 Tools & Platforms: Git, GitHub, VS Code
 
+
 🔍 What I'm Up To
 🌱 I’m currently learning TypeScript and Next.js
 👯 I’m looking to collaborate on open-source projects
 
 📫 How to Reach Me
+
 LinkedIn https://www.linkedin.com/in/karen-sofia-bonilla-moreno-451050172/
 
 Email karenbonillamoreno@gmail.com

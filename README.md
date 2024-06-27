@@ -23,11 +23,13 @@ Tools & Platforms: Git, GitHub, VS Code
 👯 I’m looking to collaborate on open-source projects
 
 
+
 📫 How to Reach Me
 
 LinkedIn https://www.linkedin.com/in/karen-sofia-bonilla-moreno-451050172/
 
 Email karenbonillamoreno@gmail.com
+
 
 
 

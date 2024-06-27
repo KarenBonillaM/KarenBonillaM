@@ -4,8 +4,9 @@ I'm a Mexican 🇲🇽 Front-End Developer currently based in Stockholm, Sweden 
 
 I'm passionate and ambitious, always eager to learn new things and improve my coding skills. I thrive on creating visually appealing, user-friendly websites and am always looking for opportunities to collaborate on exciting projects.
 
-💻 Skills
-Languages: HTML, CSS, JavaScript 
+
+💻 Skills 
+  Languages: HTML, CSS, JavaScript 
 
 Frameworks & Libraries: React, Bootstrap, Tailwind, SCSS
 
